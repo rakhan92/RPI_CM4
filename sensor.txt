@@ -1,0 +1,9 @@
+[16:02, 1/12/2024] Uzair Hasan: For CM4 Sensors @Rizwan Ahmed Khan 
+Alright, my sensors are the following;
+1 ultrasonic sonar HC-SR04
+1 SHT31-D temp+humidity sensor
+1 DS18B20 temp sensor
+1 crowtail PH sensor 2.0(CRT14016P002)
+1 BMP180(HW-596)
+GY-BM280
+[16:02, 1/12/2024] Uzair Hasan: And 2 soil moisture sensor- https://www.smart-prototyping.com/Soil-Hygrometer-Detection-Module-Soil-Moisture-Sensor-For-Arduino.html
